@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Lucas ferreira de lima
+-Profissão:Mecanico Soldador
+-Cidade: Botiuva-sp
+-O que faz nas horas vaga: estudo, familia, fé e games.
+-Feedback sobre o curso Qualidade de Software: bem legal ate o presenti momento aprendi muita coisa com funcionalidade e fundamentais para meu inicia de carreira
+-Feedback sobre a plataforma de estudo da EBAC: bom imaginava um ambiente menos minimalista, achoq da para juntar os dois minimalista com modernidade e mais gameficado.
 
 Obrigado!!!
 
